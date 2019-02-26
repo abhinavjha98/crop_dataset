@@ -1,0 +1,38 @@
+<annotation>
+	<folder>4</folder>
+	<filename>59dcdc7f95685.image.jpg</filename>
+	<path>C:\Users\dhruv\Downloads\data - Vaibhav\train\4\59dcdc7f95685.image.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>damaged_cotton</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>1</ymin>
+			<xmax>342</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>damaged_cotton</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>329</ymin>
+			<xmax>393</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

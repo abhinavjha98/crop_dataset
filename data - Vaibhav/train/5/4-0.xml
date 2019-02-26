@@ -1,0 +1,38 @@
+<annotation>
+	<folder>5</folder>
+	<filename>4-0.jpg</filename>
+	<path>C:\Users\dhruv\Downloads\data - Vaibhav\train\5\4-0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>445</width>
+		<height>371</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jute</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>251</xmin>
+			<ymin>87</ymin>
+			<xmax>435</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>jute</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>159</ymin>
+			<xmax>193</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8</folder>
+	<filename>2.jpg</filename>
+	<path>D:\Hack\data\test\8\2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>1836</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>damaged_sugarcane</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>4</ymin>
+			<xmax>3264</xmax>
+			<ymax>1817</ymax>
+		</bndbox>
+	</object>
+</annotation>

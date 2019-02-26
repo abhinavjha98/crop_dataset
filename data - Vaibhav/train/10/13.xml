@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10</folder>
+	<filename>13.jpg</filename>
+	<path>D:\Hack\data\train\10\13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>220</width>
+		<height>138</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>damaged_tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>36</ymin>
+			<xmax>217</xmax>
+			<ymax>109</ymax>
+		</bndbox>
+	</object>
+</annotation>

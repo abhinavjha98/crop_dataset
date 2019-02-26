@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9</folder>
+	<filename>t9.jpg</filename>
+	<path>D:\Hack\data\train\9\t9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>220</width>
+		<height>165</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>28</ymin>
+			<xmax>167</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+</annotation>

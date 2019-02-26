@@ -1,0 +1,38 @@
+<annotation>
+	<folder>6</folder>
+	<filename>im666ages.jpg</filename>
+	<path>C:\Users\dhruv\Downloads\data - Vaibhav\train\6\im666ages.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>334</width>
+		<height>151</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>damaged_jute</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>1</ymin>
+			<xmax>114</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>damaged_jute</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>2</ymin>
+			<xmax>320</xmax>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+</annotation>

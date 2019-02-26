@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6</folder>
+	<filename>image3333333333s.jpg</filename>
+	<path>C:\Users\dhruv\Downloads\data - Vaibhav\train\6\image3333333333s.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>274</width>
+		<height>184</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>damaged_jute</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>8</ymin>
+			<xmax>255</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>
